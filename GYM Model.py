@@ -1,5 +1,5 @@
-
-
+from collections import Mapping
+from collections.abc import Mapping
 import pandas as pd
 import numpy as np
 from sklearn import datasets
