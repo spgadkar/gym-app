@@ -1,1 +1,1 @@
-web: gunicorn gym-app.wsgi
+web: gunicorn gym-app-predictor.wsgi
