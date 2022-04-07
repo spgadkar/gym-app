@@ -1,9 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jun  8 17:06:01 2019
 
-@author: prithvi
+@author: sagar
 """
+from collections import Mapping
+from collections.abc import Mapping
 import flask
 from flask import Flask, request , jsonify, render_template
 #import jinja2
